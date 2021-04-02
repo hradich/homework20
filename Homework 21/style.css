@@ -1,0 +1,109 @@
+
+
+
+.navbar{ background:#F97300;}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+
+.navbar-collapse{
+    justify-content: flex-end;
+   }
+   
+.navbar-toggler{  background:#fff !important;}
+
+
+   .bg-dark{
+    background-color:#343a40!important
+    }
+    .bg-primary{
+    background-color:#007bff!important
+    }
+
+/*header style*/
+
+   .overlay{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(244, 244, 244, 0.79);
+   }
+
+   .description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+    
+}
+.description h1{
+ color:#F97300 ;
+}
+.description p{
+ color:#666;
+ font-size: 20px;
+ width: 50%;
+ line-height: 1.5;
+}
+.description button{
+ border:1px  solid #F97300;
+ background:#F97300;
+ color:#fff;
+}
+
+section {
+    padding: 150px 0;
+  }
+
+  /*Interview style*/
+
+  .w-container {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 90;
+  }
+  .body {
+      font-family: filson-pro; 
+      color: #343a40;
+      font-size: 14px;
+      line-height: 20px;
+  }
+
+  .title-heading {
+      margin-top: 40px;
+      margin-bottom: 40px;
+      text-align: center;
+  }
+
+  .project-brief-headings {
+      margin-top: 40px;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      color: #343a40;
+      line-height: 1.5em;
+      font-style: normal;
+      font-weight: 300;
+      text-align: left;
+  }
+
+
+
+  
+    
+   /*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+    padding: 156px 0 100px;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
